@@ -29,7 +29,7 @@ img {
     flex-wrap: wrap;
     row-gap: 24px;
     column-gap: 24px;
-    padding: 100px 156px;
+    padding: 24px 156px;
 }
 
 .gallery-item {
