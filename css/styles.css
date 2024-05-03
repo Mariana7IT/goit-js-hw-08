@@ -31,8 +31,8 @@ img {
 
 .gallery-item {
 }
-.gallery-item:hover{
-    content: url(url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><use xlink:href="#icon-bxs_hand-down"/></svg>'););
+.gallery-item:hover {
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><use xlink:href="#icon-bxs_hand-down"/></svg>');
     display: inline-block;
     stroke-width: 0;
     color: #4E75FF;
