@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 16px;
+
+}
+
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.gallery  {
+    border: none;
+    max-width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 48px;
+    column-gap: 24px;
+    padding: 100px 156px;
+}
+
+.gallery-item {
+}
+
+.gallery-link {
+}
+
+.gallery-image {
+    width: 360px;
+    height: 200px;
+    justify-content: center;
+}
