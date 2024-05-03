@@ -27,6 +27,7 @@ img {
     row-gap: 24px;
     column-gap: 24px;
     padding: 24px 156px;
+    width: 100%;
 }
 
 .gallery-item {
