@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 16px;
+   
 
 }
 
@@ -27,7 +27,7 @@ img {
     max-width: 1440px;
     display: flex;
     flex-wrap: wrap;
-    row-gap: 48px;
+    row-gap: 24px;
     column-gap: 24px;
     padding: 100px 156px;
 }
