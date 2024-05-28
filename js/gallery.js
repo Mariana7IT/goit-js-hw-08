@@ -120,4 +120,3 @@ function handleClick(event) {
 // let gallery = document.querySelector('.gallery');
 // gallery.appendChild(listItem);
 
-

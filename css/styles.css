@@ -2,8 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-}
 
 ul, ol {
     list-style: none;
@@ -29,8 +27,7 @@ img {
     width: 100%;
 }
 
-.gallery-item {
-}
+
 .gallery-item:hover {
     stroke-width: 0;
     color: #4E75FF;
